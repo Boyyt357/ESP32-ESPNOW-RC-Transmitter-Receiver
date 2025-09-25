@@ -42,8 +42,8 @@ The TX ESP32 reads all physical inputs and transmits the data wirelessly.
 | :---- | :---- |
 | **Roll (J1X)** | 34 |
 | **Pitch (J1Y)** | 35 |
-| **Yaw (J2X)** | 32 |
-| **Throttle (J2Y)** | 33 |
+| **Yaw (J2X)** | 33 |
+| **Throttle (J2Y)** | 32 |
 | **Switch 1 UP** | 25 |
 | **Switch 1 DOWN** | 26 |
 | **Switch 2 UP** | 27 |
