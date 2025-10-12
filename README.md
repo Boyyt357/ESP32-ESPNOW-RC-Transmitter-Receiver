@@ -6,6 +6,9 @@
 
 This project transforms two **ESP32** development boards into a complete, low-latency Radio Control (RC) system. It uses **ESP-NOW** for robust wireless communication and outputs the **iBUS** protocol, making it compatible with popular flight controllers like Betaflight, INAV, and Ardupilot.
 
+![maxresdefault (1)](https://github.com/user-attachments/assets/06c6ddb7-ed89-4009-84ce-485271e6e2d8)
+https://youtu.be/8bFoEAdK0pI
+
 ## **✨ Key Features**
 
 This system is a pure ESP32 solution, requiring no extra RF modules.
