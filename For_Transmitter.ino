@@ -33,7 +33,7 @@ struct_data sendData;
 int16_t j1x_center, j1y_center, j2x_center, j2y_center;
 
 // Peer MAC (replace with RX MAC from serial monitor)
-uint8_t rxMac[] = {0x38, 0x18, 0x2B, 0xB2, 0x2E, 0x00};
+uint8_t rxMac[] = {0xFF, 0xFF, 0xFF, 0xFF, 0xFF, 0xFF};
 
 // Send status callback (new API for ESP32 Arduino 3.x)
 void OnDataSent(const esp_now_send_info_t *info, esp_now_send_status_t status) {
